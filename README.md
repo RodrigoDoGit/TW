@@ -1,6 +1,6 @@
-# Tecnologias Web (CC3008)
-Neste repositório está o código relativo à Unidade Curricular de Tecnologias Web do Ano Letivo 2022/2023 - DCC/FCUP.
+# Web Technologies (CC3008)
+This repository contains the code for Web Technologies Course Unit of 2022/2023 Academic Year - DCC/FCUP.
 
-| Diretório | Descrição |
+| Folder | Description |
 | :-------- | :---------------------------------------------------------------------------------------- |
-| Práticas | Resolução dos exercícios das aulas práticas |
+| Lab Classes | Resolution of the lab classes exercises |
